@@ -59,12 +59,14 @@ qm set 210 --cipassword "yourpassword" - as you can see you need to use the VM I
    cd proxmox-deployer
 
 2. Install dependencies
-  ```bash
+   ```bash
    npm install
 
 3. Configure .env file
-  ```bash
+   ```bash
    cp .env.example .env
+
+
 # Edit .env with your Proxmox credentials and template IDs
 
 4. Start the server
