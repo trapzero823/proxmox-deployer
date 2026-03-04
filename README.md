@@ -2,7 +2,6 @@ Nessun problema, a volte i blocchi di codice si "rompono" a seconda di come l'ed
 
 Ho unificato tutti i comandi in blocchi `bash` puliti e continui. Puoi copiare **tutto il blocco qui sotto** (cliccando sul tastino "Copia" in alto a destra se sei da browser) e incollarlo direttamente nel tuo file `README.md`:
 
-```markdown
 # Proxmox Cloud-Init Provisioner 🚀
 
 A super-lightweight Node.js web interface to rapidly deploy Proxmox VMs using Cloud-Init templates. Perfect for lab environments or small-scale VPS hosting or fun testing.
@@ -28,6 +27,7 @@ I just wanted to test the Proxmox api and try out Gemini coding.
 First you need to download the cloud-init image, i will use ubuntu as an example but it works with pretty much all cloud-init images.
 
 Download the template on your proxmox host:
+
 ```bash
 wget [https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img](https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img)
 
