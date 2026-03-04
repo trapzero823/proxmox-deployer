@@ -1,0 +1,12 @@
+# Dipendenze (troppo pesanti da caricare)
+node_modules/
+
+# Sicurezza (MAI caricare le tue chiavi e i tuoi token!)
+.env
+
+# Log locali (dati sensibili e file che cambiano sempre)
+vm-creations.log
+
+# File di sistema (opzionale, per pulizia)
+.DS_Store
+Thumbs.db
