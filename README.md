@@ -55,8 +55,8 @@ qm set 210 --cipassword "yourpassword" - as you can see you need to use the VM I
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/youruser/proxmox-provisioner.git](https://github.com/youruser/proxmox-provisioner.git)
-   cd proxmox-provisioner
+   git clone [https://github.com/trapzero823/proxmox-deployer.git](https://github.com/trapzero823/proxmox-deployer.git)
+   cd proxmox-deployer
 
 2. Install dependencies
 npm install
@@ -68,5 +68,5 @@ cp .env.example .env
 4. Start the server
 node index.js
 
-If everything went right you should reach the server on your server on port 3000
+If everything went right you should reach the server on your server on port 3000, if needed you can change this on the index.js file
 
