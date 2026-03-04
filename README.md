@@ -1,7 +1,3 @@
-Nessun problema, a volte i blocchi di codice si "rompono" a seconda di come l'editor li interpreta quando fai copia-incolla.
-
-Ho unificato tutti i comandi in blocchi `bash` puliti e continui. Puoi copiare **tutto il blocco qui sotto** (cliccando sul tastino "Copia" in alto a destra se sei da browser) e incollarlo direttamente nel tuo file `README.md`:
-
 # Proxmox Cloud-Init Provisioner 🚀
 
 A super-lightweight Node.js web interface to rapidly deploy Proxmox VMs using Cloud-Init templates. Perfect for lab environments or small-scale VPS hosting or fun testing.
