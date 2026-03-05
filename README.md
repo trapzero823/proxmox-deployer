@@ -5,6 +5,10 @@ I just wanted to test the Proxmox api and try out Gemini coding.
 
 > **Note:** I AM NOT AN EXPERT PROGRAMMER SO THIS APP CERTAINLY WILL HAVE SOME BUGS, BUT AS FAR AS I HAVE TESTED IT, IT CAN CREATE AND RUN VMS, AND DELETE THEM. IT DOESN'T REALLY HAVE FULL ERROR LOG FUNCTIONS.
 
+> [!TIP]
+> **This is how the dashboard looks:**
+> ![Proxmox Provisioner Dashboard](./public/screenshot.png)
+
 ## ✨ Features
 - **Dynamic Templates:** Configure your templates directly in the `.env` file.
 - **Auto-Provisioning:** Automatic VMID selection, cloning, and resizing.
